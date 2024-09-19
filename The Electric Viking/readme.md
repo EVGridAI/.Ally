@@ -9,3 +9,6 @@ profile:
 
 ## Favorite:
 - [Ford's CEO petrified by what he saw in China after this happened...](https://youtu.be/SGN1ohPDTjM)
+
+## video:
+- [Welcome to the Electric Viking](https://youtu.be/AW8BN2qpCVg)
